@@ -3,7 +3,7 @@ layout: post
 title: Initial Honours Progress
 categories: [university]
 tags: [honours]
-description: A small post about how I planned to start of my honours project.
+description: A small post about how I planned to start off my honours project.
 ---
 
 For the start of the honours project, I detailed a list over the end of Summer of what subject areas I would be interested in, which ranged from Physics, to Graphics and even Networking. Before the first week of university, on Wednesday 31st August, I met up with Dr Paul Robertson and discussed these initial ideas, and picked up on the fact that I would like to take on a VR project and proposed his own project which was looking into Mixed Reality (MR), 
