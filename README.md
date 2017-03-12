@@ -1,37 +1,30 @@
-dbyll
-=====
+Code Journey
+============
 
+## What is Code Journey?
+Code Journey: [found here](https://jmottershead94.github.io/)
+Code Journey is my attempt at keeping up with a programming style blog where I will rant about my projects and programming techniques that I have used so far that I think are cool.
+
+## Who is Code Journey for?
+People who are curious about programming and more specifically games development. Thanks for looking by the way! It means a lot.
+
+## How did you set this up?
+When a friend of mine first told me about GitHub pages, we then started looking into different themes and he showed me a list of repositories with great looking themes to choose from. For my site, I chose a brilliant open source GitHub pages theme detailed below: dbyll.
+
+## Sounds "interesting" I guess, where can I find any more of your work?
+Again, thanks for reading through this and having a look through - it means a lot! In terms of my work and having a showcase, you can find my stuff here:
+	* [Portfolio Website](http://jasonmottershead.wixsite.com/portfolio)
+	* [YouTube Showcase](https://www.youtube.com/channel/UCzOuH-fkkfqSA9Bp3zhFdsQ)
+
+### Future Plans
+These will be a bit delayed at the moment (side projects on going, job applications, university coursework and life in general), but here is what I plan to include:
+	* Adding honours screenshots and any recorded videos.
+	* Updating with information about my side projects.
+	* Posts about my learning experience for cool games programming design patterns.
+
+### dbyll
 Open source stylish, minimalistic theme for jekyll.  
 Demo: http://dbtek.github.io/dbyll/
 
-## New
-- Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
-- :new: Check out [Paper](https://github.com/dbtek/paper), new Material Design Jekyll theme.
-
-### Features
-- Responsive layout.
-- Supports tags and categories.
-- Social profile and bio of author.
-- Bootstrap based.
-- Glyphicon and Font-Awesome Icons.
-- Pagination.
-- Syntax highlighting with pygments.
-- Disqus comments.
-- :new: Custom sidebar background image.
-
-
-### Download
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
-
-### Install
-- You need to have [ruby](https://www.ruby-lang.org/en/documentation/installation/) installed in your system.
-- Install bundler which helps in specifying and installing dependencies of any Ruby project. ```gem install bundler```
-- Go to the root of the repo and run this - ```bundle install```
-- Then - ```bundle exec jekyll serve```
-
-### Screenshots
-![dbyll-screenshot](assets/media/dbyll-ss.png)
-
 ### License
 - [MIT](http://opensource.org/licenses/MIT)
-
