@@ -17,15 +17,15 @@ When a friend of mine first told me about GitHub pages, we then started looking 
 
 ## Sounds "interesting" I guess, where can I find any more of your work?
 Again, thanks for reading through this and having a look through - it means a lot! In terms of my work and having a showcase, you can find my stuff here:
-	* [Portfolio Website](http://jasonmottershead.wixsite.com/portfolio)
-	* [YouTube Showcase](https://www.youtube.com/channel/UCzOuH-fkkfqSA9Bp3zhFdsQ)
+- [Portfolio Website](http://jasonmottershead.wixsite.com/portfolio)
+- [YouTube Showcase](https://www.youtube.com/channel/UCzOuH-fkkfqSA9Bp3zhFdsQ)
 
 
 ### Future Plans
 These will be a bit delayed at the moment (side projects on going, job applications, university coursework and life in general), but here is what I plan to include:
-	* Adding honours screenshots and any recorded videos.
-	* Updating with information about my side projects.
-	* Posts about my learning experience for cool games programming design patterns.
+- Adding honours screenshots and any recorded videos.
+- Updating with information about my side projects.
+- Posts about my learning experience for cool games programming design patterns.
 	
 
 ### dbyll
