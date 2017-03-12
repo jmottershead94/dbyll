@@ -1,7 +1,9 @@
 Code Journey
 ============
 
-Code Journey: [found here](https://jmottershead94.github.io/)
+![code-journey-logo-screenshot](assets/Images/code-journey-logo.png)
+
+Code Journey: [See here](https://jmottershead94.github.io/)
 
 ### What is Code Journey?
 Code Journey is my attempt at keeping up with a programming style blog where I will rant about my projects and programming techniques that I have used so far that I think are cool.
