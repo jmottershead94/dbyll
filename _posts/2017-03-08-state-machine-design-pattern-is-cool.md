@@ -3,7 +3,7 @@ layout: post
 title: State Machine Design Pattern
 categories: [misc]
 tags: [design patterns]
-description: State machines are pretty cool!
+fullview: true
 ---
 
 The state machine design pattern is beautifully described by Robert Nystrom with references to game logic in http://gameprogrammingpatterns.com/state.html and I would highly recommend reading through his site, there are many more patterns that are discussed in great detail.
