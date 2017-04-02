@@ -17,7 +17,7 @@ In terms of setting up the base state you can have something like:
 	{
 		public:
 			virtual ~UIState(){}
-			virtual std::unique_ptr<State> HandleTransitions() = 0;
+			virtual std::unique_ptr<UIState> HandleTransitions() = 0;
 			virtual void OnEnter() = 0;
 			virtual void OnExit() = 0;
 			virtual void Render() = 0;
@@ -31,9 +31,9 @@ Then for your inheriting states, you can just override the methods:
 	class TitleUIState : public UIState
 	{
 		public:
-			TitleUIState(const State& current_state);
+			TitleUIState(const UIState& current_state);
 			~TitleUIState();
-			std::unique_ptr<State> HandleTransitions() override;
+			std::unique_ptr<UIState> HandleTransitions() override;
 			void OnEnter() override;
 			void OnExit() override;
 			void Render() override;
