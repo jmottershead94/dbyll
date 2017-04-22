@@ -16,4 +16,4 @@ On top of this, the questionnaires for testers were drafted and then finialized 
 
 Finally, testers have been acquired in order to test the application out. 10 testers overall which is as much as I could get for the time frame provided. This is taking into account booking time for the VR lab and the VR lab is a restricted resource and is shared amongst other university students, so time booked for the lab is precious and must not be wasted. This also means however, that the times for testers to test out the application are not as flexible as the times depend on who else has the Hive booked for VR time, and then if testers can also make that time.
 
-[![VR Editor](https://i.ytimg.com/vi/FV92HVpOVJg/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tncdSuGdqS6wMmKkgla3XBu9Uvg)](https://www.youtube.com/watch?v=FV92HVpOVJg&list=PL1virZg-w1uLvvrQjVuYnWuFamdx_-3ku&index=1)
+You can watch how the levels were created with both the standard and VR editor [here.](https://www.youtube.com/watch?v=FV92HVpOVJg&list=PL1virZg-w1uLvvrQjVuYnWuFamdx_-3ku&index=1)
